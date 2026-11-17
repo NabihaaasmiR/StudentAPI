@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZsBwWFTvD2g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NABIHA AASMI R\\source\\repos\\StudentManagementApi\\StudentManagementApi\\StudentManagementApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NABIHA AASMI R\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\NABIHA AASMI R\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
