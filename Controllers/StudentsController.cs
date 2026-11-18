@@ -14,6 +14,7 @@ namespace StudentManagementApi.Controllers
 
         public StudentsController(IStudentService service) => _service = service;
 
+        [Authorize(Policy = "AdminOnly")]
         [HttpPost]
         public async Task<ActionResult<StudentResponseDto>> CreateStudent([FromBody] CreateStudentDto dto)
         {
